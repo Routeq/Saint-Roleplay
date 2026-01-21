@@ -1,0 +1,12 @@
+[package]
+name = "infam/project"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+promise = "cody-nelson/promise@4.0.1"
+networker = "reflectionnnn/networker@1.0.1"
+
+[server-dependencies]
+profileservice = "firebird702/profileservice@1.1.0"
