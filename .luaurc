@@ -1,0 +1,20 @@
+{
+  "languageMode": "nonstrict",
+  "aliases": {
+    "testez": "Packages/_Index/cody-nelson_promise@4.0.1/promise/modules/testez/src"
+  },
+  "globals": [
+    "describe",
+    "it",
+    "itFOCUS",
+    "itSKIP",
+    "expect",
+    "beforeAll",
+    "beforeEach",
+    "afterAll",
+    "afterEach",
+    "FIXME",
+    "FOCUS",
+    "SKIP"
+  ]
+}
